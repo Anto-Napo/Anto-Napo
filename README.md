@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Anto-Napo
+- 👀 I’m interested in Java and React.js
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on nothing
+- 📫 Reach me on antonapo on discord
