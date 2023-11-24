@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Anto-Napo
-- 👀 I’m interested in Java and React.js
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in Java and React with Vite & Tsx
+- 🌱 I’m currently learning MongoDB (NoSQL)
 - 📫 Reach me on antonapo on discord
